@@ -2,9 +2,9 @@
 
 $dbHost 'aws.connect.psdb.cloud';
 
-$dbUsername = '5o2u5gq0ccjmugi9e0g3';
+$dbUsername = '8x0h7lnyb1iiacltabn2';
 
-dbPassword = 'pscale_pw_cEBfA4oD9s7f6k0s8CZbsJG4tHIe2ktBStDOBQqcmIL';
+dbPassword = 'pscale_pw_EvbhgwMDf9ZqIMalUL6g8DRBtxI0PpZGkMwZ5ISKyeZ';
 
 $dbName '';
 
